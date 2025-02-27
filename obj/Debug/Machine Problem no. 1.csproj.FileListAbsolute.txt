@@ -1,0 +1,10 @@
+D:\VS\repos\Machine Problem no. 1\bin\Debug\Machine Problem no. 1.exe.config
+D:\VS\repos\Machine Problem no. 1\bin\Debug\Machine Problem no. 1.exe
+D:\VS\repos\Machine Problem no. 1\bin\Debug\Machine Problem no. 1.pdb
+D:\VS\repos\Machine Problem no. 1\obj\Debug\Machine Problem no. 1.csproj.AssemblyReference.cache
+D:\VS\repos\Machine Problem no. 1\obj\Debug\Machine_Problem_no._1.Form1.resources
+D:\VS\repos\Machine Problem no. 1\obj\Debug\Machine_Problem_no._1.Properties.Resources.resources
+D:\VS\repos\Machine Problem no. 1\obj\Debug\Machine Problem no. 1.csproj.GenerateResource.cache
+D:\VS\repos\Machine Problem no. 1\obj\Debug\Machine Problem no. 1.csproj.CoreCompileInputs.cache
+D:\VS\repos\Machine Problem no. 1\obj\Debug\Machine Problem no. 1.exe
+D:\VS\repos\Machine Problem no. 1\obj\Debug\Machine Problem no. 1.pdb
